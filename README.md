@@ -1,6 +1,8 @@
 ### Hi there 👋, Saloni Saxena here
 #### I am a Cloud Enthusiast !
 
+![Wakatime](https://wakatime.com/share/@16728e3b-f337-4134-960e-8640e91a2635/8eaed9a4-a7d5-4362-b499-374e2c22cd18.png)
+
 - 🔭 I’m currently working on cloud computing 
 - 🌱 I’m currently learning DSA 
 - 📫 How to reach me: saloni.saxena0117@gmail.com 
