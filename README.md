@@ -6,8 +6,8 @@
 ### `C` `C++` `HTML` `CSS` `Java(Basic)`
 ### `Git` `AWS` `Docker` `Jenkins` `MySql` `VS Code`
 ### `Windows` `Linux`
-### `Public Speaking` `Time Management` `Creativity` `Problem Solving` `Data Structures`
-### `Algorithms`
+### `Public Speaking` `Time Management` `Creativity` `Problem Solving` `Data Structure $ Algorithms`
+
 
 - 🔭 I’m currently working on cloud computing 
 - 🌱 I’m currently learning DSA
