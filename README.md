@@ -1,9 +1,17 @@
 ### Hi there 👋, Saloni Saxena here
 #### I am a Cloud Enthusiast !
 
+# SKILLS
+
+### `C` `C++` `HTML` `CSS` `Java(Basic)`
+### `Git` `AWS` `Docker` `Jenkins` `MySql` `VS Code`
+### `Windows` `Linux`
+### `Public Speaking` `Time Management` `Creativity` `Problem Solving` `Data Structures` `Algorithms`
+
+
 
 - 🔭 I’m currently working on cloud computing 
-- 🌱 I’m currently learning DSA 
+- 🌱 I’m currently learning DSA
 - 📫 How to reach me: saloni.saxena0117@gmail.com 
 
 
